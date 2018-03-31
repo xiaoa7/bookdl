@@ -1,0 +1,14 @@
+{
+	"bookname":"绝世唐门",
+	"encoding":"gbk",
+	"listurl":"http://www.booktxt.net/0_62/",
+	"listselector":"div#list dd a",
+	"contenturlprefix":"http://www.booktxt.net",
+	"contentselector":"div#content",
+	"singlefilechaptersize":100,
+	"requestheader":{
+		"Host":"www.booktxt.net",
+"Referer": "http://www.booktxt.net/0_62/",
+		"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+	}
+}
